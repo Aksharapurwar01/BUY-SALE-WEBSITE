@@ -1,5 +1,5 @@
 # BUY-SALE-WEBSITE
-This is E-commerce website in which user can buy or sell products.
+This is E-commerce website in which user can buy or sale products.
 
 ###Name of Team Members
 1.Akshara Purwar- aksharapurwar@gmail.com
@@ -11,5 +11,5 @@ This is E-commerce website in which user can buy or sell products.
 HTML
 CSS
 Bootstrap
-MYSQL
+
 ###
